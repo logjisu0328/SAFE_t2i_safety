@@ -1,0 +1,9 @@
+datasets
+transformers
+accelerate
+diffusers
+bitsandbytes
+openai
+typing_extensions>=4.0.0
+python-dotenv
+
